@@ -71,13 +71,13 @@
 
 2、[https://github.com/settings/tokens](https://github.com/settings/tokens) 申请 token, 勾选相应的权限, 如果不懂就全部选中，复制并保存Token。
 
-3、https://github.com/用户名/nav/settings/secrets/actions/new  添加申请的token， name填写 `TOKEN` 大写。
+3、https://github.com/d1667018881/dh/settings/secrets/actions/new  添加申请的token， name填写 `TOKEN` 大写。
 
-4、打开 https://github.com/用户名/nav/actions 点击 `绿色按钮`
+4、打开 https://github.com/d1667018881/dh/actions 点击 `绿色按钮`
 
 5、务必修改项目配置文件 [nav.config.ts](nav.config.ts)
 
-6、5分钟后打开 https://用户名.github.io/nav 就能看到一个非常强大的导航网站了。
+6、5分钟后打开 https://d1667018881.github.io/dh 就能看到一个非常强大的导航网站了。
 
 ### 推荐方式二(Vercel免费)
 和方式一的步骤一样，除了第4步不用。
