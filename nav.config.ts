@@ -17,16 +17,16 @@ const c: IConfig = {
   homeUrl: 'http://dxlin.cf',
 
   // 网站标题
-  title: '发现导航 - 精选实用导航网站',
+  title: '我的书签',
 
   // 网站描述
-  description: '发现导航 - 精选实用导航网站',
+  description: '我的书签',
 
   // 网站关键字
   keywords: '导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js',
 
   // 默认主题: Light | Sim | Side | App | Shortcut
-  theme: 'sim',
+  theme: 'Sim',
 
   // 网站底部内容, 版权信息、备案号, 可以是 HTML
   footerContent: `
